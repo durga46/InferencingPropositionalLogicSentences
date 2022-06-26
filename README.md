@@ -33,8 +33,10 @@ Using wumpus_kb.ask_if_true() to get the result based on TRUE value.
 
 
 ## PROGRAM
+```python
 Developed by:DurgaDevi.P
 Register No :212220230015
+```
 
 ```python
 from utils import *
